@@ -30,4 +30,5 @@ Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestõe
 
 ## Licença
 Este projeto é destinado para fins de apresentação. Não poderá ser copiado para fins comerciais. 
+O código está disponível para estudantes de web scraping.
 
